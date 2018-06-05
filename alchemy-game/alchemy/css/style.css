@@ -1,0 +1,46 @@
+
+
+body {
+	background-color: #454549!important;
+}
+
+svg {
+	height: 500px;
+	width: 860px;
+	margin: auto;
+}
+
+
+
+.logo {
+	margin-left:36%;
+	float: center;
+
+
+}
+
+header {
+	margin-top: 40px;
+}
+
+section {
+	margin-top: 40px;
+}
+
+.btn-secondary-2 {
+	color: #00653e;
+	font-weight: 600!important;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%!important;
+	background-color: #a6ffda!important;
+	border-color: #a6ffda!important;
+}
+
+.btn-info {
+	width: 160px;
+}
+
+ul {
+	list-style-type: square;
+}
